@@ -8,4 +8,5 @@ Snippets
 Basics
 
 
-- [Listing all available variables of a template](snippets/list-all-vars.md)
+- [Listing all available variables of a template](snippets/basics.md)
+- [Change CSS of Backend](snippets/basics.md)
