@@ -1,2 +1,7 @@
-# contao-easydev
+contao-easydev
+==============
 contao-easydev is a collection of code snippets, tricks and more for contao CMS.
+
+Snippets
+--------
+- [Listing all available variables of a template](snippets/list-all-vars.md)
